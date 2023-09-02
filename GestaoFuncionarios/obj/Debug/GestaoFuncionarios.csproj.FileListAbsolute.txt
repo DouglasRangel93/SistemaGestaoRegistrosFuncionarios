@@ -1,0 +1,8 @@
+C:\Users\dougl\source\repos\GestaoFuncionarios\GestaoFuncionarios\bin\Debug\GestaoFuncionarios.exe.config
+C:\Users\dougl\source\repos\GestaoFuncionarios\GestaoFuncionarios\bin\Debug\GestaoFuncionarios.exe
+C:\Users\dougl\source\repos\GestaoFuncionarios\GestaoFuncionarios\bin\Debug\GestaoFuncionarios.pdb
+C:\Users\dougl\source\repos\GestaoFuncionarios\GestaoFuncionarios\obj\Debug\GestaoFuncionarios.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\GestaoFuncionarios\GestaoFuncionarios\obj\Debug\GestaoFuncionarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\GestaoFuncionarios\GestaoFuncionarios\obj\Debug\GestaoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\GestaoFuncionarios\GestaoFuncionarios\obj\Debug\GestaoFuncionarios.exe
+C:\Users\dougl\source\repos\GestaoFuncionarios\GestaoFuncionarios\obj\Debug\GestaoFuncionarios.pdb
